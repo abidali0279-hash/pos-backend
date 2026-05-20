@@ -1,0 +1,96 @@
+# =========================
+# Build folders
+# =========================
+bin/
+obj/
+Debug/
+Release/
+publish/
+out/
+
+# =========================
+# DLL and executable files
+# =========================
+*.dll
+*.exe
+*.pdb
+
+# =========================
+# Visual Studio files
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Rider / VS Code
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# NuGet packages
+# =========================
+packages/
+*.nupkg
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+
+# =========================
+# ASP.NET Core secrets
+# =========================
+secrets.json
+appsettings.Development.json
+
+# =========================
+# Node modules
+# =========================
+node_modules/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Test results
+# =========================
+TestResults/
+
+# =========================
+# Resharper
+# =========================
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# Database files
+# =========================
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# =========================
+# IIS Express
+# =========================
+/.vs/config/
+/IISExpress/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp

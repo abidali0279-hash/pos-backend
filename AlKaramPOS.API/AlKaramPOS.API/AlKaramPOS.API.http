@@ -1,0 +1,6 @@
+@AlKaramPOS.API_HostAddress = http://localhost:5075
+
+GET {{AlKaramPOS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
